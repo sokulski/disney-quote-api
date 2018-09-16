@@ -1,2 +1,4 @@
-# disney-quote-api
-A homework assignment for The Node.js Master class. An API that returns a quote by Walt Disney when called.
+# Disney Quote API
+A homework assignment for The Node.js Master class.
+
+When called, this API will return a random quote from Walt Disney.
